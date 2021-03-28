@@ -1,2 +1,4 @@
-var str = 'Hello';
-console.log(str);
+//Type
+var login = 'admin';
+var id1 = 1234;
+var id2 = '1234';
